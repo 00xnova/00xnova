@@ -14,7 +14,7 @@ Just started coding in public — expect roguelikes, turn-based RPG systems, and
 ### Tech Stack
 - **Game Engines**: Godot 4+, LÖVE2D
 - **Languages**: GDScript, Lua, learning Go
-- **Tools**: Hyprland/Arch Linux, Git, OBS + TTS streaming
+- **Tools**: Hyprland/Arch Linux, Git,
 
 ### Currently Learning
 - Advanced Godot systems (TileMapLayer, combat loops, simulation AI)

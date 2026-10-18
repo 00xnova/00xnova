@@ -1,4 +1,4 @@
-# Hi there, I'm NØVA 👾
+# Hi there, I'm NØVA 
 
 **Indie game developer** diving deep into **Godot 4+** and **LÖVE2D (Lua)**.
 
@@ -9,4 +9,4 @@ Just started coding in public so expect roguelikes, turn-based RPG systems, and 
 
 ---
 
-*"Code in public they said... so here we are."* 🚀
+*"Code in public they said... so here we are."* 

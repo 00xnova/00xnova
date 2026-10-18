@@ -4,7 +4,7 @@
 
 Just started coding in public so expect roguelikes, turn-based RPG systems, and procedural dungeons.
 
-### Let's Connect
+### Socials
 - X / Twitter: [@0xNova](https://x.com/0xNova)
 
 ---

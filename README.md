@@ -1,4 +1,4 @@
-# Hi there, I'm NØVA 
+# Hi , I'm NØVA 
 
 **Indie game developer** diving deep into **Godot 4+** and **LÖVE2D (Lua)**.
 
